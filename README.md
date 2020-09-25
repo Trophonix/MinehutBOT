@@ -2,7 +2,7 @@
 
 This is the source code of the Discord bot used on the official Minehut Discord server. This may be outdated as the code used on production is closed-source (boo proprietary).
 
-**Update:** Due to other circumstances, the future of this repo is unclear. One thing is for certain, the official source code for the Minehut bot is [open-source here!](https://github.com/Minehut/MinehutBOT)
+**Update:** Due to other circumstances, the future of this repo is unclear. One thing is for certain, the official source code for the Minehut bot is now [open-source here!](https://github.com/Minehut/MinehutBOT)
 
 ## Features
 
